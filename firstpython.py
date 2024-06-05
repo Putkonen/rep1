@@ -1,0 +1,3 @@
+Nice
+
+print("New")
